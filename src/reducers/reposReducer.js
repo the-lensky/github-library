@@ -1,4 +1,5 @@
 const SET_REPOS = 'SET_REPOS'
+const SET_IS_FETHCING = 'SET_IS_FETCHING'
 
 
 const defaultState = {
@@ -21,3 +22,4 @@ export default function (state = defaultState, action) {
 }
 
 export const setRepos = (repos) => ({type:SET_REPOS,payload:repos})
+export const setIsFethcing = (bool) => ({type:SET_IS_FETHCING,payload:bool})
