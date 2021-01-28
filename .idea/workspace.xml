@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6b1afb2-a441-4225-8d8f-6dcc46e8de9f" name="Default Changelist" comment="" />
+    <list default="true" id="b6b1afb2-a441-4225-8d8f-6dcc46e8de9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/repos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/repos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/repo/Repo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/repo/Repo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/reposReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/reposReducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1ni7C0jDY4TkRF2gFyfrseHyrCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -27,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611860926078</updated>
-      <workItem from="1611860927130" duration="2689000" />
+      <workItem from="1611860927130" duration="3750000" />
     </task>
     <servers />
   </component>
@@ -35,13 +54,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="628" y="303" key="EditFileWatcherDialog" timestamp="1611862557305">
+    <state x="585" y="91" key="CommitChangelistDialog2" timestamp="1611863695079">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="628" y="303" key="EditFileWatcherDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611862557305" />
-    <state x="461" y="170" key="SettingsEditor" timestamp="1611863619420">
+    <state x="585" y="91" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611863695079" />
+    <state x="184" y="87" key="DiffContextDialog" timestamp="1611863693304">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611863619420" />
+    <state x="184" y="87" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611863693304" />
+    <state x="628" y="303" key="EditFileWatcherDialog" timestamp="1611864374930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="628" y="303" key="EditFileWatcherDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611864374930" />
+    <state x="807" y="405" key="Github.ShareDialog" timestamp="1611863670934">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="807" y="405" key="Github.ShareDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611863670934" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1611864049487">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611864049487" />
   </component>
 </project>
